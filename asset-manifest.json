@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://hanishjindal.github.io/csb-h1j3ro/static/css/main.5d853350.chunk.css",
-    "main.js": "https://hanishjindal.github.io/csb-h1j3ro/static/js/main.05ca2f52.chunk.js",
-    "main.js.map": "https://hanishjindal.github.io/csb-h1j3ro/static/js/main.05ca2f52.chunk.js.map",
+    "main.js": "https://hanishjindal.github.io/csb-h1j3ro/static/js/main.7e266915.chunk.js",
+    "main.js.map": "https://hanishjindal.github.io/csb-h1j3ro/static/js/main.7e266915.chunk.js.map",
     "runtime-main.js": "https://hanishjindal.github.io/csb-h1j3ro/static/js/runtime-main.7c1afecd.js",
     "runtime-main.js.map": "https://hanishjindal.github.io/csb-h1j3ro/static/js/runtime-main.7c1afecd.js.map",
     "static/js/2.92cfa4b1.chunk.js": "https://hanishjindal.github.io/csb-h1j3ro/static/js/2.92cfa4b1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7c1afecd.js",
     "static/js/2.92cfa4b1.chunk.js",
     "static/css/main.5d853350.chunk.css",
-    "static/js/main.05ca2f52.chunk.js"
+    "static/js/main.7e266915.chunk.js"
   ]
 }
